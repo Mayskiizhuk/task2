@@ -1,4 +1,4 @@
-package HW;
+package ru.naumen;
 
 import java.util.ArrayList;
 import java.util.Scanner;

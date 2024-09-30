@@ -1,4 +1,6 @@
-package Task;
+package ru.naumen;
+
+import ru.naumen.Task;
 
 import java.util.LinkedList;
 import java.util.List;

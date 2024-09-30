@@ -1,4 +1,4 @@
-package HW;
+package ru.naumen;
 
 import java.io.IOException;
 import java.net.http.HttpClient;

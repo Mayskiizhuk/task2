@@ -1,9 +1,10 @@
-package StreamAPI;
+package ru.naumen;
+
+import ru.naumen.Employee;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StreamAPI {
     public StreamAPI() {

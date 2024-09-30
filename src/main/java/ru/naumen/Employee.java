@@ -1,4 +1,4 @@
-package StreamAPI;
+package ru.naumen;
 
 public class Employee {
     private String fullName;

@@ -1,11 +1,5 @@
 package ru.naumen;
 
-import HW.Array;
-import HW.HTTP;
-import HW.Sort;
-import StreamAPI.StreamAPI;
-import Task.TaskTest;
-
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

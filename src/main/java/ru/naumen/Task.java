@@ -1,4 +1,4 @@
-package Task;
+package ru.naumen;
 
 import java.util.LinkedList;
 import java.util.Queue;
